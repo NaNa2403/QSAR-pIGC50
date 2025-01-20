@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PropertyRegistry xmlns="http://www.qsardb.org/QDB">
+    <Property>
+        <Id>pIGC50</Id>
+        <Name>40-h Tetrahymena toxicity as log(1/IGC50)</Name>
+        <Description>T. pyriformis population growth inhibition, expressed as the inverse logarithm on the millimolar concentration causing
+50% inhibition in growth following 40 hours of treatment</Description>
+        <Labels></Labels>
+        <Cargos>ucum bibtex values</Cargos>
+        <Endpoint>6. Other</Endpoint>
+        <Species>Tetrahymena pyriformis</Species>
+    </Property>
+</PropertyRegistry>

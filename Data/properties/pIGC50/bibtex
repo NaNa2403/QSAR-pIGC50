@@ -1,0 +1,10 @@
+@article{Belfield2023,
+  author = {Samuel J. Belfield and Mark T.D. Cronin and Steven J. Enoch and James W. Firman},
+  title = {Guidance for good practice in the application of machine learning in development of toxicological quantitative structure-activity relationships (QSARs)},
+  journal = {PLoS One},
+  volume = {18},
+  number = {5},
+  pages = {e0282924},
+  year = {2023},
+  doi = {10.1371/journal.pone.0282924},
+}
