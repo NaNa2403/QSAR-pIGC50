@@ -1,0 +1,5 @@
+RDkit
+sklearn
+DEAP
+numpy
+pandas
